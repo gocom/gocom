@@ -8,10 +8,7 @@ A Backend Developer, working in eCommerce space, specializing in architecture, t
 🖌️ experiment with user interface and graphics design
 
 <p>
-<a href="https://dribbble.com/shots/6387978-Video-Player"><img src="https://raw.githubusercontent.com/gocom/gocom/refs/heads/main/assets/images/highlight-01.jpg" width="33%"></a>
-<a href="https://dribbble.com/shots/6434928-Cat-In-A-Cup"><img src="https://raw.githubusercontent.com/gocom/gocom/refs/heads/main/assets/images/highlight-03.png" width="33%"></a>
-<a href="https://dribbble.com/shots/6410736-Upload-button"><img src="https://raw.githubusercontent.com/gocom/gocom/refs/heads/main/assets/images/highlight-02.png" width="33%"></a>
-<a href="https://dribbble.com/shots/6382305-Account-Menu-2"><img src="https://raw.githubusercontent.com/gocom/gocom/refs/heads/main/assets/images/highlight-04.png" width="100%"></a>
+<a href="https://dribbble.com/gocom"><img src="https://raw.githubusercontent.com/gocom/gocom/refs/heads/main/assets/images/showcase.jpg" width="100%"></a>
 </p>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
