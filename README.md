@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Jukka,
 
-A Backend Developer, working in eCommerce space, specializing in architecture, technical feature design, integrations, and lead developer tasks and relations.
+A Backend Developer working in eCommerce space, specializing in architecture, technical feature design, integrations, and overall lead developer tasks and relations.
 
 **During freetime, I…** <br>
-🌸 maintain open source projects such as [PHP-Textile](https://github.com/textile/php-textile), smaller personal projects and interest, old Textpattern CMS plugins <br>
-🥑 play around with React and Vue frontend development, Electron, video game modding <br>
+🌸 maintain few open source projects such as [PHP-Textile](https://github.com/textile/php-textile), smaller personal projects and Textpattern CMS plugins <br>
+🥑 play around with React and Vue frontend development, video game modding <br>
 🖌️ experiment with user interface and graphics design
 
 <p>
